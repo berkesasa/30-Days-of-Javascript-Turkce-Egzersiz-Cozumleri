@@ -104,7 +104,6 @@ console.log("Hem dragon hem de python'da 'on' yoktur.");
     Dakika kaç şimdi?
     1 Ocak 1970'den bugüne kadar geçen saniye sayısını bulun.
 */
-
 let tarih = new Date();
 let yil = tarih.getFullYear(); console.log(yil);
 let ay = tarih.getMonth() + 1; console.log(ay);
