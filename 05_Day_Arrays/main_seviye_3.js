@@ -55,6 +55,7 @@ console.log(countries[96]); // kontrol için countries dizisi 193 elemanlıdır 
 */
 let firstCountries;
 let secondCountries;
+
 if ((countries.length / 2) % 2 == 0) {
     firstCountries = countries.slice(0, countries.length/2)
     secondCountries = countries.slice(countries.length/2, countries.length - 1)
@@ -62,6 +63,6 @@ if ((countries.length / 2) % 2 == 0) {
     firstCountries = countries.slice(0, Math.ceil(countries.length/2))
     secondCountries = countries.slice(Math.ceil(countries.length/2, countries.length - 1))
 }
+
 console.log(firstCountries);
 console.log(secondCountries);
-
