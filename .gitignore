@@ -4,11 +4,5 @@ node_modules/
 # IDE
 .vscode/
 
-# Compiled files
-dist/
-*.min.js
-*.min.css
-
 # misc
 .DS_Store
-*.pem
