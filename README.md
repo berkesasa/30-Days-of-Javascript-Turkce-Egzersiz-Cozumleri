@@ -12,12 +12,12 @@ Bu repo; "30 Days of Javascript" adlı 30 günde Javascript öğretmeyi hedefley
 - [Ekran Görüntüleri](#ekran-goruntuleri)
 - [Teknolojiler](#teknolojiler)
 - [Lisans](#lisans)
-## Proje Özellikleri
+## Proje Özellikleri {#proje-ozellikleri}
 
 - Gün bazlı klasör yapısı
 - Egzersiz sorularının yorum satırı ile başlıklandırılması
 - Her seviyenin farklı js dosyası ile oluşturulması ile seviye bazlı kontrol
-## Başlarken
+## Başlarken {#baslarken}
 
 Bu projeyi başlatmak için aşağıdaki adımları izleyin:
 
@@ -48,12 +48,12 @@ Windows: Aynı anda Ctrl, Shift ve J düğmelerine basın.
 MacOS: Command, Option ve J düğmelerine basın.
 
 
-## Ekran Görüntüleri
+## Ekran Görüntüleri {#ekran-goruntuleri}
 
 ![1](/screenshots/screenshot-1.png)
 ![2](/screenshots/screenshot-2.png)
 
-## Teknolojiler
+## Teknolojiler {#teknolojiler}
 
 Bu projede kullanılan teknolojiler
 
@@ -65,7 +65,7 @@ Bu projede kullanılan teknolojiler
 
 
 
-## License
+## License {#lisans}
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
