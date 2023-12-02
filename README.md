@@ -2,7 +2,7 @@
 # 30 Days Of Javascript Türkçe Egzersiz Çözümleri
 
 
-Bu repo; "30 Days of Javascript" adlı 30 günde Javascript öğretmeyi hedefleyen repo içerisindeki egzersizlerin çözümlerini barındırmaktadır. Buradaki amaç yeni başlayanlar için yardımcı bir çözüm kaynağı oluşturmaktır.
+Bu repo; "[30 Days of Javascript](https://github.com/Asabeneh/30-Days-Of-JavaScript/tree/master/Turkish)" adlı 30 günde Javascript öğretmeyi hedefleyen repo içerisindeki egzersizlerin çözümlerini barındırmaktadır. Buradaki amaç yeni başlayanlar için yardımcı bir çözüm kaynağı oluşturmaktır.
 
 
 ## İçerik Tablosu
