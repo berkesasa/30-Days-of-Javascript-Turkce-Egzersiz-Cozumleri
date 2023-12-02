@@ -5,7 +5,7 @@
 Bu repo; "30 Days of Javascript" adlı 30 günde Javascript öğretmeyi hedefleyen repo içerisindeki egzersizlerin çözümlerini barındırmaktadır. Buradaki amaç yeni başlayanlar için yardımcı bir çözüm kaynağı oluşturmaktır.
 
 
-## Table of Contents
+## İçerik Tablosu
 
 - [Proje Özellikleri](#proje-ozellikleri)
 - [Başlarken](#baslarken)
