@@ -1,7 +1,7 @@
 // Seviye-3
 
 /* Egzersiz-1
--'Aşk bu dünyadaki en iyi şeydir. Bazıları aşkını buldu ve bazıları hala aşkını arıyor.' Bu cümledeki love kelimesini sayın.
+-'Aşk bu dünyadaki en iyi şeydir. Bazıları aşkını buldu ve bazıları hala aşkını arıyor.' Bu cümledeki aşk kelimesini sayın.
 */
 let ask = 'Aşk bu dünyadaki en iyi şeydir. Bazıları aşkını buldu ve bazıları hala aşkını arıyor.'
 console.log(ask.match(/aşk/gi).length);
