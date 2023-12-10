@@ -286,7 +286,6 @@ function userIdGenerator() {
         var randomIndex = Math.floor(Math.random() * characters.length);
         userId += characters.charAt(randomIndex);
     }
-
     return userId;
 }
 console.log(userIdGenerator());
