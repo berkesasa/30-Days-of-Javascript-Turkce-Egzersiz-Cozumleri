@@ -78,3 +78,70 @@ const productPrices = products.map(function (product) {
 });
 console.log(productPrices);
 
+/* Egzersiz-11
+-land içeren ülkeleri filtrelemek için filtre kullanın.
+*/
+
+/* Egzersiz-12
+-Altı karaktere sahip ülkeleri filtrelemek için filtre kullanın.
+*/
+
+/* Egzersiz-13
+-countries dizisinde altı ve daha fazla harf içeren ülkeleri filtrelemek için filtre kullanın.
+*/
+
+/* Egzersiz-14
+-'E' ile başlayan ülkeleri filtrelemek için filtre kullanın;
+*/
+
+/* Egzersiz-15
+-products dizisini karşılık gelen fiyatlarla eşlemek için map kullanın.
+*/
+
+/* Egzersiz-16
+-Yalnızca değerleri olan fiyatları filtrelemek için filtre kullanın.
+*/
+
+/* Egzersiz-17
+-Parametre olarak bir dizi alan ve ardından yalnızca dize öğeleri içeren bir dizi döndüren getStringLists adlı bir işlev tanımlayın.
+*/
+
+/* Egzersiz-18
+-numbers dizisindeki tüm sayıları toplamak için reduce kullanın.
+*/
+
+/* Egzersiz-19
+-Tüm ülkeleri birleştirmek ve bu cümleyi üretmek için reduce kullanın: Estonya, Finlandiya, İsveç, Danimarka, Norveç ve IceLand Kuzey Avrupa ülkeleridir
+*/
+
+/* Egzersiz-20
+-some ve every arasındaki farkı açıklayın
+*/
+
+/* Egzersiz-21
+-names dizisinde bazı isimlerin uzunluğunun yediden büyük olup olmadığını kontrol etmek için some kullanın
+*/
+
+/* Egzersiz-22
+-Tüm ülkelerin land kelimesini içerip içermediğini kontrol etmek için every kullanın.
+*/
+
+/* Egzersiz-23
+-find ve findIndex arasındaki farkı açıklayın.
+*/
+
+/* Egzersiz-24
+-countries dizisinde yalnızca altı harf içeren ilk ülkeyi bulmak için find kullanın
+*/
+
+/* Egzersiz-25
+-countries dizisinde yalnızca altı harf içeren ilk ülkenin konumunu bulmak için findIndex'i kullanın
+*/
+
+/* Egzersiz-26
+-Dizide yoksa Norveç'in konumunu bulmak için findIndex kullanın -1 elde edersiniz.
+*/
+
+/* Egzersiz-27
+-Rusya'nın konumunu bulmak için findIndex kullanın, eğer dizide yoksa -1 alırsınız.
+*/
