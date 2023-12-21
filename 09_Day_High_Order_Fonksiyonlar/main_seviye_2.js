@@ -19,7 +19,7 @@ const total = products
     .filter(item => item.price !== '' && item.price !== ' ' && !isNaN(item.price))
     .map(item => parseFloat(item.price))
     .reduce((acc, price) => acc + price, 0);
-
+    
 console.log('Toplam Fiyat:', total);
 
 /* Egzersiz-2
@@ -104,6 +104,7 @@ console.log(getLastTenCountries(countriesData));
 -Ülkeler dizisinden bir ülke adının baş harfi olarak en çok hangi harfin kullanıldığını bulun (örn. Finlandiya, Fiji, Fransa vb.)
 */
 function findMostUsedStartingLetter(countryArray) {
+
     const letterCounts = {};
 
     for (const country of countryArray) {
@@ -116,4 +117,3 @@ function findMostUsedStartingLetter(countryArray) {
     return mostUsedLetter;
 }
 console.log(findMostUsedStartingLetter(countriesData));
-
