@@ -151,7 +151,7 @@ statistics.addData(ages);
 
 console.log('Count:', statistics.count());
 console.log('Sum: ', statistics.sum());
-console.log('Min: ', statistics.min());
+console.log('Min: ', statistics.min()); 
 console.log('Max: ', statistics.max());
 console.log('Range: ', statistics.range());
 console.log('Mean: ', statistics.mean());
