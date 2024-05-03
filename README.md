@@ -21,26 +21,26 @@ Bu repo; "[30 Days of Javascript](https://github.com/Asabeneh/30-Days-Of-JavaScr
 
 Bu projeyi başlatmak için aşağıdaki adımları izleyin:
 
-Bu repoyu yerel makinenize klonlayın:
+1.Bu repoyu yerel makinenize klonlayın:
 
 ```bash
 git clone https://github.com/berkesasa/30-Days-of-Javascript-Turkce-Egzersiz-Cozumleri.git
 ```
 
-1.Proje dizinine gidin.
+2.Proje dizinine gidin.
 
 ```bash
 cd 30-Days-of-Javascript-Turkce-Egzersiz-Cozumleri
 
 ```
 
-2.Açılmak istenen gün klasörüne gidin ve index.html içerisine gidin.
+3.Görüntülenmek istenen gün klasörünün altında yer alan index.html dosyasını açın.
 
 
-3.İstenilen egzersiz seviyesini yorum satırından çıkarın.
+4.İstenilen egzersiz seviyesini yorum satırından çıkarın.
 
 
-4.Uygulamayı tarayıcınızda başlatarak http://localhost:3000 adresinde görüntüleyin.
+5.Uygulamayı tarayıcınızda başlatarak http://localhost:3000 adresinde görüntüleyin.
 
 !! Egzersiz çözümleri için konsolu kontrol etmeniz gerekebilir. Chrome'da konsolu açmak için;
 
